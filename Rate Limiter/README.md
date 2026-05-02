@@ -33,3 +33,5 @@ The system selects the appropriate algorithm based on user tier and checks wheth
 - Strategy Pattern
 - Factory Pattern
 - Thread-safe data structures
+
+### Source : https://github.com/shubhkpatel/Low-Level-Design/tree/main/src/main/java/org/nailyourinterview/lld/rate_limiter
